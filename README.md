@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tezeshwinee Sai
+- 👋 Hi, I’m Tezeshwinee Sai
 - 👀 I’m interested in Web Development and Full stack Developer
 - 🌱 I’m currently learning  Python full stack
 - 👩🏻‍🎓📚 I'm pursuing Degree Final Year BCA
